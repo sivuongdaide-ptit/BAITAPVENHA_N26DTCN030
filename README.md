@@ -41,5 +41,8 @@ Nếu em là Huy, trước khi đến lớp em sẽ chuẩn bị bài đọc tr�
 * **Hành động quan trọng nhất:** Đọc trước tài liệu trên LMS và chuẩn bị ít nhất 1 câu hỏi trước buổi học 1–2 ngày.
 * **Lý do:** Ở môi trường đại học, thời gian trên lớp chủ yếu dành cho thảo luận và giải quyết tình huống chứ giảng viên không dạy lại lý thuyết từ đầu. Việc chuẩn bị trước giúp em chuyển từ thế bị động sang chủ động, nắm được vốn kiến thức từ trước và biết rõ mình đang yếu ở đâu để tập trung lắng nghe và hỏi ngay trên lớp.
 
+```diff
+- N26DTCN030 ThanhThaoSieuBaKhi
+```
 
-# N26DTCN030 ThanhThaoSieuBaKhi
+
