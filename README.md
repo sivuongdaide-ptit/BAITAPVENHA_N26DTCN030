@@ -6,7 +6,7 @@
 | Vấn đề của Huy | Cách khắc phục |
 | :--- | :--- |
 | **1. Học dồn và trì hoãn:** Coi những ngày ít tiết là thời gian nghỉ ngơi hoàn toàn và đợi gần đến kỳ kiểm tra mới xem tài liệu. | Bố trí thời gian ôn tập định kỳ hàng tuần; dành khoảng 30–45 phút vào các ngày ít tiết để đọc trước và tổng hợp tài liệu LMS. |
-| **2. Học thụ động, phụ thuộc vào giảng viên:** Thói quen từ thời cấp 3 là chờ giáo viên hướng dẫn chi tiết, nhắc nhở bài tập và giảng lại toàn bộ kiến thức trên lớp. | Tự giác chuyển sang chủ động học: Đọc tài liệu trước khi đến lớp, tự ghi chép các thắc mắc và coi giờ học trên lớp là thời gian để thảo luận, giải đáp thay vì tiếp thu thụ động. |
+| **2. Học thụ động, phụ thuộc vào giảng viên:** Thói quen từ thời cấp 3 là chờ giáo viên hướng dẫn chi tiết, nhắc nhở bài tập và nhắc lại bộ kiến thức trên lớp. | Tự giác chuyển sang chủ động học: Đọc tài liệu trước khi đến lớp, tự ghi chép các thắc mắc và coi giờ học trên lớp là thời gian để thảo luận, giải đáp thay vì tiếp thu thụ động. |
 | **3. Chưa chủ động chuẩn bị cho việc học trên lớp:** Không xem trước tài liệu LMS khiến Huy không theo kịp các hoạt động thảo luận và giải quyết tình huống trên lớp. | Áp dụng kỹ thuật đọc trước tài liệu (đọc lướt chiến lược), ghi lại các key và chuẩn bị sẵn 1–2 câu hỏi/thắc mắc để mang đến lớp trao đổi. |
 
 ---
