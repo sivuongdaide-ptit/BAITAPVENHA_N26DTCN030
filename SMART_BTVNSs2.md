@@ -1,4 +1,4 @@
-# BÀI TẬP: THIẾT LẬP MỤC TIÊU SỰ NGHIỆP THEO MÔ HÌNH SMART
+# NHIỆM VỤ: THIẾT LẬP MỤC TIÊU SỰ NGHIỆP THEO MÔ HÌNH SMART
 
 **Họ và tên:** ``` Lê Hồ Thanh Thảo  ```
 
