@@ -1,19 +1,20 @@
 # BÀI TẬP: THIẾT LẬP MỤC TIÊU SỰ NGHIỆP THEO MÔ HÌNH SMART
 
-**Họ và tên:** Lê Hồ Thanh Thảo  
+**Họ và tên:** ``` Lê Hồ Thanh Thảo  ```
+
 **Vị trí mục tiêu:** Junior Software Quality Assurance (QA) / Tester  
 
 ---
 
 ### I. MỤC TIÊU TỔNG QUÁT (SMART GOAL STATEMENT)
-> *"Trở thành **Junior Software QA Engineer** chính thức tại một công ty công nghệ trong vòng **6 tháng tới (từ 10/2026 đến 03/2027)** bằng cách hoàn thành 1 khóa học kiểm thử phần mềm, xây dựng 2 dự án portfolio trên GitHub và đạt kết quả phỏng vấn tuyển dụng."*
+*"Trở thành **Junior Software QA Engineer** chính thức tại một công ty công nghệ trong vòng 6 tháng sau khi đi thực tập từ RikkeiSoft (từ 10/2028 đến 03/2029) bằng cách hoàn thành 1 khóa học kiểm thử phần mềm, xây dựng 2 dự án portfolio trên GitHub và đạt kết quả phỏng vấn tuyển dụng."*
 
 ---
 
 ### II. PHÂN TÍCH CHI TIẾT THEO 5 TIÊU CHÍ SMART
 
 #### 1. S – Specific (Cụ thể)
-* **Mục tiêu rõ ràng:** Đạt được vị trí công việc **Junior QA/Tester**.
+* **Mục tiêu rõ ràng:** Đạt được vị trí công việc Junior QA/Tester.
 * **Nội dung công việc cần nắm vững:** 
   * Nắm vững quy trình kiểm thử phần mềm (STLC), kỹ thuật thiết kế Test Case, Bug Report.
   * Thành thạo công cụ quản lý lỗi (Jira) và kiểm thử API cơ bản (Postman).
@@ -37,14 +38,20 @@ Mục tiêu được định lượng bằng các kết quả đầu ra cụ th�
 * Tạo tiền đề vững chắc để phát triển lên các vị trí Automation Test hoặc QA Lead trong 3 – 5 năm tới.
 
 #### 5. T – Time-bound (Thời hạn cụ thể)
-**Tổng thời gian:** 06 tháng (Từ **01/10/2026** đến **31/03/2027**)
+**Tổng thời gian:** 06 tháng (Từ **01/10/2028** đến **31/03/2029**)
 
-* **Giai đoạn 1 (Tháng 10/2026 - Tháng 11/2026): Củng cố kiến thức chuyên môn**
+* **Giai đoạn 1 (Tháng 10/2028 - Tháng 11/2028): Củng cố kiến thức chuyên môn**
   * Ôn tập lý thuyết kiểm thử theo chuẩn ISTQB Foundation.
   * Thực hành viết Test Case và SQL truy vấn dữ liệu nâng cao.
-* **Giai đoạn 2 (Tháng 12/2026 - Tháng 01/2027): Thực hành dự án & Xây dựng Portfolio**
+* **Giai đoạn 2 (Tháng 12/2028 - Tháng 01/2029): Thực hành dự án & Xây dựng Portfolio**
   * Đóng gói dự án kiểm thử Web/App và API, push toàn bộ tài liệu lên GitHub repository.
   * Viết README.md chuyên nghiệp cho dự án trên GitHub.
-* **Giai đoạn 3 (Tháng 02/2027 - Tháng 03/2027): Ứng tuyển & Phỏng vấn**
+* **Giai đoạn 3 (Tháng 02/2029 - Tháng 03/2029): Ứng tuyển & Phỏng vấn**
   * Chuẩn bị CV, tối ưu LinkedIn/GitHub Profile.
   * Rải CV, tham gia phỏng vấn và tiếp thu phản hồi để cải thiện kỹ năng.
+ 
+
+```diff
++ ThanhThaoSieuBaKhi <3
+```
+
