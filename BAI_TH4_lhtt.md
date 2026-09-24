@@ -2,7 +2,7 @@
 
 * **Môn học:** SSK101 - Kỹ năng học tập chủ động & Phát triển bản thân
 * **Họ và tên:** Lê Hồ Thanh Thảo
-* **Lớp:** N26DTCN030
+* **Lớp:** CNTT2
 * **Ngày thực hiện:** 23/09/2026
 
 ---
