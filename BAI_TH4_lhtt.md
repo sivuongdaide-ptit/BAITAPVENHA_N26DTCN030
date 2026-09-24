@@ -143,5 +143,5 @@
 *  **ACT (Điều chỉnh):** Chuyển khung giờ học Thứ 5 sang sáng Thứ 7 để tránh trùng lịch học/bài tập đột xuất.
 
 ## TỰ THƯỞNG
-*  Cuối cùng là edit việc mà em thích nhất, em sẽ lấy công việc này làm phần thưởng mỗi khi học xong và chắc chắn phần thưởng này không bị lạm dụng! bởi vì một lần dit video là một video khác nhau và content khác nhau.
+*  Cuối cùng là edit việc mà em thích nhất, em sẽ lấy công việc này làm phần thưởng mỗi khi học xong và chắc chắn phần thưởng này không bị lạm dụng! bởi vì một lần edit video là một video khác nhau và content khác nhau.
 *  Còn chủ nhật là em sẽ viết lách hoặc dịch truyện, dịch phim và update lên các nền tảng đây là một hình thức relax của em.
