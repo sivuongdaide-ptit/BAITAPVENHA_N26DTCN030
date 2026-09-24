@@ -1,2 +1,1 @@
-# Aut
-* text=auto
+Làm trên LMS rồi lmaoooooooooo
